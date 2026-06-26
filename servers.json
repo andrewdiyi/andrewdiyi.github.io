@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "anilike",
+            "address": "https://ani.likly.top"
+        }
+    ]
+}
